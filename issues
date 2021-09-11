@@ -1,3 +1,24 @@
 
 :
 xikong-mubai:process.env.flag
+xikong-mubai:{
+  "users": {
+    "user": [
+      {
+        "id": "1",
+        "username": "admin",
+        "passwd": "admin888"
+      },
+      {
+        "id": "2",
+        "username": "root",
+        "passwd": "root123"
+      },
+      {
+        "id": "3",
+        "username": "system",
+        "passwd": "system456"
+      }
+    ]
+  }
+}
